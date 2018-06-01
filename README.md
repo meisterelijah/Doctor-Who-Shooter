@@ -15,3 +15,7 @@
 ### Wanna play again? it's simple really.
 5. Press R to restart your game.
 Enjoy!
+
+## Totally acurrate GAME PLAY!
+![alt text](https://github.com/meisterelijah/Doctor-Who-Shooter/blob/master/assests/website/"title.PNG")
+
