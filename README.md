@@ -2,7 +2,7 @@
 
 # Action report:
 
-### The doctor has faced many enemies throughout his years. And he has lost just as many companions, but the time has come. The doctor needs your help! The Cybermen and the Daliks have joined forces and he needs your help to stop them.
+### The doctor has faced many enemies throughout his years. And he has lost just as many companions, but the time has come. The doctor needs your help! The Cybermen and the Daliks have joined forces and he needs your help to stop them. Will you climb aborad or run from what is to come? Rememeber, its bigger on the inside.
 
 ## How to Play!
 1. Press the space Bar to begin
