@@ -21,3 +21,4 @@ Enjoy!
 
 ![alt text](https://raw.githubusercontent.com/meisterelijah/Doctor-Who-Shooter/master/assests/website/gameplay.PNG)
 
+[I'm an inline-style link](https://github.com/meisterelijah/Doctor-Who-Shooter/releases/tag/1.0.0)
